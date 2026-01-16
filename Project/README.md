@@ -1,5 +1,5 @@
 
-## Poject
+## Project 
 # Task 1
 Beckett Pizza Plaza (4-for-3 Offer)
 
