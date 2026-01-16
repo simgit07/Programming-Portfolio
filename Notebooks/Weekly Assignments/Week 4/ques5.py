@@ -1,0 +1,10 @@
+def c_to_f(c):
+    return (c * 9 / 5) + 32
+
+
+def f_to_c(f):
+    return (f - 32) * 5 / 9
+
+
+print("0C =", c_to_f(0), "F")
+print("32F =", f_to_c(32), "C")
